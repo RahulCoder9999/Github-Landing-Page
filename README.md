@@ -11,9 +11,6 @@ Access the deployed landing page using the following link:
 ## Features
 
 - **Responsive Design:** The landing page is designed to be responsive, ensuring a seamless experience across various devices.
-- **Navigation Options:** Explore different sections such as product, solutions, open source, and pricing.
-- **Search Bar:** Use the search bar to quickly find relevant information or repositories.
-- **User Authentication:** Sign in or sign out using the provided authentication functionality.
 - **Interactive Elements:** The page includes interactive elements for a more engaging user experience.
 
 ## Technologies Used
