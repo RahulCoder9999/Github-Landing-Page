@@ -1,6 +1,6 @@
 # Github Landing Page
 
-This project implements a responsive landing page using React, featuring a design with options like product, solutions, open source, pricing, a search bar, and sign-in/sign-out functionality.
+This project implements a responsive landing page using React
 
 ## Deployment Link
 
