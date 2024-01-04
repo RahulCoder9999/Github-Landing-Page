@@ -21,13 +21,7 @@ Access the deployed landing page using the following link:
 - Reactjs
 - CSS
 
-## Instructions for Viewing
 
-To view the landing page, follow these steps:
-
-1. Click on the [Download Link](https://github.com/warriorruchi/Github-landingPage) to access the web page.
-2. Open the link in a web browser.
-3. Explore the landing page on different devices or by resizing the browser window to see the responsive design in action.
 
 
 
